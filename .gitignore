@@ -1,0 +1,7 @@
+myenv/
+dist/
+build/
+*.exe
+*.xlsx
+*.pyc
+__pycache__/
