@@ -88,8 +88,8 @@ pyinstaller --onefile --windowed network_monitor.py
 أنا **Narjes Almari**، مطورة بايثون وأتمتة عمليات.  
 أهتم ببناء أدوات وحلول تقنية تسهل الأعمال اليومية وتوفر الوقت والجهد.
 
-🔗 **لينكد إن:** [رابط حسابك]  
-🐙 **GitHub:** [رابط حسابك]
+[🔗 **linkedin**](https://www.linkedin.com/in/%D9%86%D8%B1%D8%AC%D8%B3-%D8%A7%D9%84%D8%B9%D9%85%D8%B1%D9%8A-757b68273/)
+[🐙 **GitHub:**](https://github.com/Narjes455)
 
 ---
 
